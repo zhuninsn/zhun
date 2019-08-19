@@ -20,8 +20,7 @@ def root():
   return render_template("index.html", d = result)
   ```
   
-  ##ex
-  
+  ## ex
   yee | bang
   ----|----
   iiu | uhiu
