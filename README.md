@@ -21,7 +21,8 @@ def root():
   ```
   
   ##ex
-  yee|bang
-  ---|----
-  iiu|uhiu
+  
+  yee | bang
+  ----|----
+  iiu | uhiu
 
